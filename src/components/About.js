@@ -11,10 +11,12 @@ const About = () => {
 &nbsp;
 
             <center>
-              <img src="./v.jpg" alt="Ayush Dey" />
+              <img src=" /image.jpg" alt="Ayush Dey"/>
             </center>
+           
             <p>
-              "As a coding enthusiast with a passion for solving complex problems, I love nothing more than diving into new projects and finding creative solutions. I'm always eager to learn and grow as a developer as well as dedicated to staying current with the latest developments in AI/ML and other related CS domains. I am always eager to apply my skills to real-world problems. When I'm not coding, you can find me tinkering with projects or participating in hackathons and coding competitions. Let's connect and see what we can build together!"
+              
+              "As a coding enthusiast with a passion for solving complex problems,<br></br> I love nothing more than diving into new projects and finding creative solutions. <br></br>I'm always eager to learn and grow as a developer as well as dedicated to staying current with the latest developments in AI/ML and other related CS domains. I am always eager to apply my skills to real-world problems. When I'm not coding, you can find me <br></br>tinkering with projects or participating in hackathons and coding competitions. <br></br>Let's connect and see what we can build together!"
 
             </p>
 &nbsp;
