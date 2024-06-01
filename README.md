@@ -4,21 +4,10 @@ Hi welcome to my portfolio
 Website : [here](https://adx04.github.io/Portfolio)
 ## Table of Contents
 
-1. [Installation](#installation)
-2. [Folder Structure](#folder-structure)
-3. [JS Frameworks Used](#js-frameworks-used)
+1. [Folder Structure](#folder-structure)
+2. [JS Frameworks Used](#js-frameworks-used)
 
 
-## Installation
-
-To install and run the project locally, follow these steps:
-
-```bash
-git clone <repository-url>
-cd my-portfolio
-npm install
-npm start
-```
 
 Once the project is set up, open your web browser and navigate to `http://localhost:3000` to view the website.
 
