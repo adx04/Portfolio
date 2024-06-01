@@ -1,3 +1,4 @@
 *node_modules filter=lfs diff=lfs merge=lfs -text
 *card.js filter=lfs diff=lfs merge=lfs -text
 *index.js filter=lfs diff=lfs merge=lfs -text
+*App.css filter=lfs diff=lfs merge=lfs -text
