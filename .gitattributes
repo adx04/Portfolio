@@ -3,3 +3,4 @@
 *index.js filter=lfs diff=lfs merge=lfs -text
 *App.css filter=lfs diff=lfs merge=lfs -text
 *navbar.js filter=lfs diff=lfs merge=lfs -text
+*Navbar.js filter=lfs diff=lfs merge=lfs -text
