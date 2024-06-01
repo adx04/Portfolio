@@ -1,7 +1,6 @@
 
-# My Portfolio Website
+# My Portfolio 
 
-Welcome to my portfolio website! This project showcases my skills, projects, and contact information to potential employers and collaborators. Built with React.js and Redux, this website features a responsive design, dark/light mode toggle, and a clean user interface.
 
 ## Table of Contents
 
@@ -14,9 +13,6 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 7. [Key Learnings](#key-learnings)
 
 
-## Introduction
-
-My portfolio website is designed to provide an overview of my skills, experience, and projects. It serves as a digital resume and showcases my capabilities to potential employers, clients, and collaborators. The website features a modern design, smooth navigation, and seamless integration of key components.
 
 ## Features
 
@@ -66,7 +62,7 @@ src/
 |-- ...
 ```
 
-## Technologies Used
+## JS Frameworks Used
 
 The main technologies and libraries/frameworks used in this project include:
 
