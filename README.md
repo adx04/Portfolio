@@ -8,9 +8,6 @@ Website : [here](https://adx04.github.io/Portfolio)
 2. [JS Frameworks Used](#js-frameworks-used)
 
 
-
-Once the project is set up, open your web browser and navigate to `http://localhost:3000` to view the website.
-
 ## Folder Structure
 
 The project follows a standard folder structure for a React application:
