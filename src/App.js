@@ -9,7 +9,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import ToggleThemeButton from './components/ToggleThemeButton'; // Import ToggleThemeButton
 import { useSelector } from 'react-redux'; // Import useSelector
-import { theme } from './theme'; // Import the theme object
+
 
 // Global styles to handle theme changes
 const GlobalStyles = createGlobalStyle`
