@@ -6,3 +6,4 @@
 *Navbar.js filter=lfs diff=lfs merge=lfs -text
 *About.js filter=lfs diff=lfs merge=lfs -text
 *Portfolio filter=lfs diff=lfs merge=lfs -text
+App.css filter=lfs diff=lfs merge=lfs -text
