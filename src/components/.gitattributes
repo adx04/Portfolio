@@ -1,3 +1,4 @@
 *About.js filter=lfs diff=lfs merge=lfs -text
 Contact.js filter=lfs diff=lfs merge=lfs -text
 Home.js filter=lfs diff=lfs merge=lfs -text
+*Navbar.js filter=lfs diff=lfs merge=lfs -text
